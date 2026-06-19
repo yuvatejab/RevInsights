@@ -1,0 +1,6 @@
+{
+  "name": "RevInsight",
+  "description": "An interactive sales intelligence dashboard and simulation engine for a branded clothing store in Bangalore, including detailed scenario analysis and downloadable Python/Jupyter automated analyses to optimize sales staffing levels and maximize gross margin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
